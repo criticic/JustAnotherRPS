@@ -1,1 +1,1 @@
-A very basic TicTacToe Game
+A very basic Rock paper Scissor  Game
